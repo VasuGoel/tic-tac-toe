@@ -1,0 +1,86 @@
+body {
+	background-image: url(https://images.unsplash.com/photo-1521623783436-1e4ccc0448c1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f2009319e218e904e4290cb9050c403c&auto=format&fit=crop&w=1050&q=80);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+h1 {
+	text-align: center;
+	color: black;
+	font-family: Nothing You Could Do;
+	font-size: 60px;
+}
+
+table {
+	margin: 0 auto;
+	margin-top: 50px;
+}
+
+tr:nth-child(n) td:nth-child(-n+2) {
+	border-right: 2px solid black;
+}
+tr:nth-child(-n+2) td:nth-child(n) {
+	border-bottom: 2px solid black;
+}
+
+td {
+	width: 100px;
+	height: 100px;
+	transition: background 0.5s;
+
+}
+
+td:hover {
+	background: rgba(186, 212, 255, 0.4);
+}
+
+.circle:after {
+	content: "O";
+	padding-left: 8px;
+	margin-left: 25%;
+	font-family: 'Niramit', sans-serif;
+	font-size: 50px;
+}
+
+.cross:after {
+	content: "X";
+	padding-left: 8px;
+	margin-left: 25%;
+	font-family: 'Niramit', sans-serif;
+	font-size: 50px;
+}
+
+#scoreBoard {
+	margin: 0 auto;
+	margin-top: 0px;
+	font-size: 75px;
+	font-family: Roboto;
+	margin-bottom: 0px;
+}
+
+#playerMessage {
+	margin-top: 10px;
+	font-family: Source Sans Pro;
+	text-align: center;
+	font-size: 25px;
+}
+
+#resetButton {
+	float: right;
+	margin-right: 35px;
+}
+
+.container {
+	max-width: 75%;
+	width: 500px;
+}
+
+.btn-outline-primary {
+	color: white;
+  background-color: rgba(0, 0, 0, .3);
+  border-color: black;
+}
+.btn-outline-primary:hover {
+	border-color: black;
+}
