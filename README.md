@@ -27,8 +27,7 @@ Play the game by opening the "index.html" file inside the downloaded zip file.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/VasuGoel07/Tic-Tac-Toe/blob/master/LICENSE) for details about License.
 ## Acknowledgments
 
 * Got the idea for the app from a friend.
