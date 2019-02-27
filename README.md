@@ -23,11 +23,11 @@ Play the game by opening the "index.html" file inside the downloaded zip file.
 
 ## Authors
 
-* **Vasu Goel** (https://github.com/VasuGoel07)
+* **Vasu Goel** (https://github.com/VasuGoel)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/VasuGoel07/Tic-Tac-Toe/blob/master/LICENSE) for details about License.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/VasuGoel/Tic-Tac-Toe/blob/master/LICENSE) for details about License.
 ## Acknowledgments
 
 * Got the idea for the app from a friend.
