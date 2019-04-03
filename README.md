@@ -16,7 +16,7 @@ Play the game by opening the "index.html" file inside the downloaded zip file.
 
 ## Built With
 
-* [Javascript (https://www.javascript.com/) - High-level, interpreted programming language
+* [Javascript] (https://www.javascript.com/) - High-level, interpreted programming language
 * [BootStrap] (https://getbootstrap.com/) - Front-End Framework
 * [HTML] (https://www.html.com/) - Standard markup language
 * [CSS] (https://css.com) - Style sheet language
